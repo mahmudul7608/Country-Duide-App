@@ -49,6 +49,7 @@ body {
   display: block;
   width: 45%;
   min-width: 7.5em;
+  border: 1px solid #9d9898;
   margin: 1.8em auto 1.2em auto;
 }
 .container h2 {
@@ -73,4 +74,7 @@ body {
 }
 .container h3 {
   text-align: center;
+  font-size: 1.2em;
+  font-weight: 400;
+  color: #ff465a;
 }
